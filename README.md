@@ -33,16 +33,16 @@ The code of the contract can be viewed on Etherscan along with interaction such 
 ## Screenshots
 
 - Verified on Etherscan
-![Token](screenshots/contract_verified_in_etherdscan.jpg);
+![Token](screenshots/contract_verified_in_etherscan.jpg)
 
 - Dispersing 70,000 tokens to all the 3 accounts entered by the contract deployer while deploying
-![Token](screenshots/disperse_etherscan.jpg);
+![Token](screenshots/disperse_etherscan.jpg)
 
 - Remaining tokens after dispersing 70,000 out of 100,000,000 tokens
-![Token](screenshots/funds_in_contract_owner_acc_after_disperse.jpg);
+![Token](screenshots/funds_in_contract_owner_acc_after_disperse.jpg)
 
 - Tokens in one of the dispersed accounts => 70,000 / 3 = 23,333.333
-![Token](screenshots/funds_in_dispersed_acc_after_disperse.jpg);
+![Token](screenshots/funds_in_dispersed_acc_after_disperse.jpg)
 
 ## Developer
 
